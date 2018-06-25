@@ -19,6 +19,7 @@ hybris/config/tomcat/
 hybris/config/solr/
 hybris/config/local.properties
 hybris/config/licence
+hybris/config
 build-tools/
 installer/
 hybris-sbg/
